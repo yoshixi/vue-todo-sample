@@ -1,0 +1,7 @@
+{
+  "name": "myapp",
+  "private": true,
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
+}
